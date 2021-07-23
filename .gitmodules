@@ -18,3 +18,9 @@
 	url = https://github.com/asiripanich/emdash
 	shallow = true
 	registered = true
+[submodule "DTedit"]
+	path = DTedit
+	url = https://github.com/DavidPatShuiFong/DTedit
+	shallow = true
+	branch = 7ce8de1b5fcd7195beee73ed4acce8ac33140ab7
+	registered = false
